@@ -8,6 +8,7 @@ This example shows how to use the [ConnectionPoints](https://docs.devexpress.com
 
 The `ConnectionPoints` collection does not have public members that allow adding or removing items from it. You need to re-initialize it instead:
 ```cs
+Point[] points = new Point[...];
 shape.ConnectionPoints = new DevExpress.Diagram.Core.DiagramPointCollection(points);
 ```
 
@@ -15,7 +16,6 @@ shape.ConnectionPoints = new DevExpress.Diagram.Core.DiagramPointCollection(poin
 
 - [MainWindow.xaml](/CS/MainWindow.xaml) (VB: [MainWindow.xaml](/VB/MainWindow.xaml))
 - [MainWindow.xaml.cs](/CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](/VB/MainWindow.xaml.vb))
-- ...
 
 ## Documentation
 
