@@ -4,7 +4,7 @@
 <!-- default badges end -->
 # DiagramControl for WPF - Change a Shape's Connection Points at Runtime
 
-This example modifies a shape's [ConnectionPoints](https://docs.devexpress.com/WPF/DevExpress.Xpf.Diagram.DiagramItem.ConnectionPoints) collection at runtime. To illustrate this behavior, we added the trackbar that changes the number and position of connection points.
+This example modifies a shape's [ConnectionPoints](https://docs.devexpress.com/WPF/DevExpress.Xpf.Diagram.DiagramItem.ConnectionPoints) collection at runtime. To illustrate this behavior, we added a trackbar that changes the number and position of connection points.
 
 ![image](https://user-images.githubusercontent.com/65009440/209833581-f7e5dc80-c3cd-444a-847b-73794ac05411.png)
 
