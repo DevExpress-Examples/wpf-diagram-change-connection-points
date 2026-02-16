@@ -31,7 +31,7 @@ shape.ConnectionPoints = new DevExpress.Diagram.Core.DiagramPointCollection(poin
 
 - [How to create custom shapes with custom connection points for DiagramDesignerControl](https://github.com/DevExpress-Examples/how-to-create-custom-shapes-with-custom-connection-points-for-diagramdesignercontrol-t320892)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-diagram-change-connection-points&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-diagram-change-connection-points&~~~was_helpful=no)
 
